@@ -15,8 +15,14 @@ Details ccth
 Mô đun 1 (Mã IU01): Hiểu biết về CNTT cơ bản.
 Mô đun 2 (Mã IU02): Sử dụng máy tính cơ bản.
 Mô đun 3 (Mã IU03): Xử lý văn bản cơ bản (Ms. Word).
+Microsoftcourse word
+https://www.youtube.com/watch?v=fa0UNYV0YVw
 Mô đun 4 (Mã IU04): Sử dụng bảng tính cơ bản (Ms. Excel).
+Microsoftcourse excel
+https://www.youtube.com/watch?v=eVotRcm7B0k
 Mô đun 5 (Mã IU05): Sử dụng trình chiếu cơ bản (Ms. PowerPoint).
+Microsoftcourse ppt
+https://www.youtube.com/watch?v=KAvHLf9hnXg
 Mô đun 6 (Mã IU06): Sử dụng Internet cơ bản.
 Mô đun 7 (Mã IU07): Năng lực số căn bản gồm 6 nội dung
 An toàn
@@ -194,6 +200,8 @@ Kali linux UDEMY
 W3school cyper security
 4 Học Hết kiến thức Ngành Auto
 0 Nguồn học
+@Nerdsacademy007
+@Nerdslesson
 https://bachkhoacncp.com/learning/ddt
 GIAI ĐOẠN 1: NỀN TẢNG KỸ THUẬT VÀ IT
 0 Kiến thức khoa học
@@ -222,6 +230,12 @@ MIT Physics 1 & 2
 video-tutor.net - physics hay
 zPhysics With Calculus @TheOrganicChemistryTutor
 Điện electronic cơ bản
+Basic electronics P1
+https://www.youtube.com/watch?v=nb4ovfwqup8
+Basic electronics P2
+https://www.youtube.com/watch?v=FEK6lH_rtG8
+Basic electronics P3
+https://www.youtube.com/watch?v=_4zSRze0_bk
 Công thức điện cơ bản THCS-THPT
 Lập trình và Kỹ năng IT nền
 Nguồn IT auto  C/C++ -> C# CƠ BẢN -> Dùng cho embedded, IOT, Auto
@@ -240,6 +254,7 @@ C++
 GIAI ĐOẠN 2: CƠ ĐIỆN TỬ – LẬP TRÌNH NHÚNG –IoT
 0https://www.luisllamas.es/en/courses/
 1 Kiến thức nền điện – điện tử
+0https://www.youtube.com/watch?v=5oOLkgKJ-SY&list=PLmFgBcXwPg49abXaKXN4xt2wxjeDmiwK2
 1Linh kiện và Mạch điện cơ bản
 00Electronic Circuits - @TheOrganicChemistryTutor
 01AC Circuit Analysis - Vol 1 - Math and Science
