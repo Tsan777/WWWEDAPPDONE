@@ -64,6 +64,12 @@ Từ vựngcn
 4 resources.allsetlearning.com/chinese/vocabulary
 z Sách Vocab vàng
 IELTS 7
+0 Youtube
+@EngineeringMindset ytb
+@veritasium
+Crash Course EnglishSpeeches TED Talks
+Crunchlab mark rober
+Ishowspeed MoreBestEverFoodReviewShow Ted Ed
 1 Nền tảng
 01Road
 Sách IELTS 20DAY
@@ -87,9 +93,6 @@ ielts-up.com
 ieltsonlinetests.com
 study4.com
 Listening  en
-Youtube
-Crash Course EnglishSpeeches TED Talks  LittleFoxKids
-Ishowspeed MoreBestEverFoodReviewShow  FamilyGuy
 ieltsliz.com/ielts-listening/
 listen-and-write
 listenaminute
@@ -103,6 +106,7 @@ Chatgpt
 crushon.ai
 Giao tiếp
 free4talk cách kéo dài câu trả lời
+engnovate.com
 ieltsliz.com/ielts-speaking
 Writing en
 Từ vựng+bài mẫu DRIVE
@@ -200,6 +204,7 @@ Kali linux UDEMY
 W3school cyper security
 4 Học Hết kiến thức Ngành Auto
 0 Nguồn học
+@EngineeringMindset
 @Nerdsacademy007
 @Nerdslesson
 https://bachkhoacncp.com/learning/ddt
@@ -207,7 +212,6 @@ GIAI ĐOẠN 1: NỀN TẢNG KỸ THUẬT VÀ IT
 0 Kiến thức khoa học
 @3blue1brown
 @DrTrefor -ytb
-@EngineeringMindset
 @MathAndScience
 @SMtrainingacademy
 Crashcourse
@@ -237,6 +241,10 @@ https://www.youtube.com/watch?v=FEK6lH_rtG8
 Basic electronics P3
 https://www.youtube.com/watch?v=_4zSRze0_bk
 Công thức điện cơ bản THCS-THPT
+zElectrical Engineering Basics
+https://www.youtube.com/watch?v=mc979OhitAg&list=PLWv9VM947MKi_7yJ0_FCfzTBXpQU-Qd3K
+zElectricity Basics
+https://www.youtube.com/watch?v=mc979OhitAg&list=PLWv9VM947MKjuqlJVp5m_Edf66SrFSHx2
 Lập trình và Kỹ năng IT nền
 Nguồn IT auto  C/C++ -> C# CƠ BẢN -> Dùng cho embedded, IOT, Auto
 quickref.me
@@ -261,11 +269,16 @@ GIAI ĐOẠN 2: CƠ ĐIỆN TỬ – LẬP TRÌNH NHÚNG –IoT
 02Engineering Circuits Analysis (DC)  - Math and Science
 1Điện tử cơ bản siêu dễ hiểu - @bklaptrinh3287
 Beginner Electronics - CodeNMore
+Electric motors Explained
+https://www.youtube.com/watch?v=yiD5nCfmbV0&list=PLWv9VM947MKh3sZh5rjYxrrNno1Mc6cuu
+Electronic components explained
+https://www.youtube.com/watch?v=DYcLFHgVCn0&list=PLWv9VM947MKhtI0EN2WfYUyuJvz4coCy-
 www.electronics-tutorials.ws   -> hay link kiện  circuits
 zMạch điện nâng cao - khuếch đại (Op-Amp, transistor, BJT, MOSFET), lọc (RC, LC, Butterworth), dao động (RC, LC, crystal), PWM, ADC/DAC.
 2 Trường điện từ (cơ sở sóng điện từ, truyền dẫn tín hiệu)
 3 Kỹ thuật xung – số (logic, mạch số, cổng logic, flip-flop, timer...)
 4 Đo lường điện và thiết bị đo (đồng hồ, oscilloscope, sensor đo lường...)
+@nghiaphysics6852
 2 Lập trình và mô phỏng nhúng
 0 MÔ PHỎNG MẠCH
 KiCad
@@ -291,6 +304,7 @@ Cloud platforms: AWS IoT Core / Azure IoT Hub (mở rộng hệ thống chuyên 
 Firebase (lưu trữ thời gian thực, điều khiển từ xa app/mobile/web)
 Node-RED (luồng dữ liệu, tự động hóa, dashboard IoT)
 ThingsBoard (nền tảng IoT công nghiệp, dashboard – phân tích dữ liệu)
+ytb electric
 GIAI ĐOẠN 3: CƠ Điện - Tự Động Hóa Cơ Bản – Lập trình Nhúng
 1Thiết kế cơ khí – điện – mạch
 Thiết kế 2D, mach, bản vẽ kỹ thuật
@@ -337,6 +351,8 @@ Lập trình vi điều khiển nâng cao (ngoại vi, timer, ngắt, giao tiế
 4Đo lường và điều khiển bằng máy tính (DAQ, LabVIEW, hệ thống điều khiển PC-based)
 5Lập trình LabVIEW (thu thập dữ liệu, điều khiển và giám sát)
 6Tự động hóa trong nông nghiệp và tòa nhà thông minh (ứng dụng IoT, AI, cảm biến môi trường)
+Automotive Engineering
+https://www.youtube.com/watch?v=VN4_asSBEKY&list=PLWv9VM947MKiRM6XNyXWFNj4Petwas06q
 GIAI ĐOẠN 4: TRÍ TUỆ NHÂN TẠO (AI) – HỆ THỐNG THÔNG MINH
 1Nền tảng lập trình và thư viện AI
 1Python cho AI: cú pháp, xử lý dữ liệu, trực quan hóa
