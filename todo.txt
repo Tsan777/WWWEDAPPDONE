@@ -1,17 +1,26 @@
 morning:
-Tập Thể thao Calisthenics
-Học Ngoại Ngữ Anh Trung Nhật (ưu tiên lớp)
-Hôm qua hoàn thành ít nhất 2-3 việc
+Thức sớm
+Tập thể dục
+Học Ngoại Ngữ
 
 afternoon:
 Học Kiến thức chuyên ngành
-Lấy nước ở trường học
+PROJECT AIOT
+MMO
 
 evening:
-Làm MMO
-Học Kĩ Năng, Khởi nghiệp, Làm dự án
 Giặt Đồ, Phơi Đồ, Vệ sinh nhà
 Tổng kết ngày, lên kế hoạch ngày mai
 Ngồi thiền
 Ngủ trước 12 đến 1 giờ
-crashcourse
+------------Daily-------------
+Push up
+Plank
+Sit up
+Squat
+LungXo
+EoOTHER
+Ngoại Ngữ(IETLS, HSK, JLPT)
+MMO(Social Media, Trade, Sell Marketing, IT Office, IT Skill)
+Project AIOT (GAME, WEP-APP, IOT EMBEDDED)
+AUTO (Đại cương, Điện, Embedded)
