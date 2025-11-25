@@ -1,71 +1,78 @@
-1| fIXBUG AND EXE workwise
-2| Hỏi GPT về app có thể kết hợp WORKWISE
-3| https://www.youtube.com/watch?v=AB4RNGJyO5g
-4| soạn đề ôn cho thành
-5| Mua đồ: lau nhà, tạ, máy nc nóng, khóa IELTS,
-6| sap xep drive de upload, code
-7| Tìm các group zalo, messenger, discord english cùng sở thích
-8| https://www.youtube.com/watch?v=1UTjWy-vnOo
-9| tạo lộ trình
-10| dọn phòng
-11| group messenger hay
-12| nhìn tương lai dựa vào trung quốc
-13| xóa bỏ Mô mô trên google sau khi dùng LLM
-14| lựa mua ấm điện
-15| gpt móng chân
-16| tính kế hoạch tương lai, hướng đi các năm
-17| tính kế hoạch MONEY, PROJECT
-18| tính kế hoạch GYM, sinh hoạt
-19| tính kế hoạch CAMERA
-20| tính kế hoạch học SKILLS thêm
-21| tính kế hoạch học AUTO, IOT
-22| Lên kế hoạch học tập
-23| Lên kế hoạch kiếm tiền
-24| Lên kế hoạch năm 1 và 3 năm còn lại
-25| chọn nguồn học cho chuyên ngành
-26| Chọn nguồn ôn tiếng anh đầu vào, IELTS
-27| chọn nguồn học cho đại cương
-28| Chọn khóa học cho ngành Auto
-29| các thuật ngữ trong ngành
-30| Nội Quán
-31| quỷ cốc tử kinh
-32| đạo đức kinh
-33| Search và hiểu về các khái niệm Điện tử, Trade
-34| electric
-35| Basic Electronics YTB, NOTEBOOKLLM
-36| Soạn và học với GEMINI PRO sau thi gk toán
-37| tính kế hoạch học CLASS
-38| Soạn triết học NOTEBOOKLLM
-39| Mastering Microsoft notebookLLM, ytb
-40| Tìm, suy nghĩ các ngánh kiếm tiền
-41| Định hướng tương lai
-42| Soạn kế hoạch kiếm tiền,học trade
-43| Tạo các dòng tiền, hế thống tự động
-44| black MMO
-45| CK, Forex, Crypto, ETF, MMO
-46| n8n va ai agent
-47| airdrop
-48| tìm cách tạo dòng tiền
-49| tìm lỗ hổng affiliate
-50| affilate cho các đồ mặt hàng ở HCM
-51| Cách nhân lên tài sản
-52| học chơi cổ phiếu, trái phiếu, crypto, vàng online
-53| Hỏi về các lỗ hỏng củacacs app shopee
-54| Search lại nguồn các SKILL ENGLISH
-55| Tạo một list từ vựng TA B1,B2,C1 hoàn chỉnh
-56| học xong sách 20 ielts online
-57| chat, soạn tiếp dạy IOT với CHATGPT
-58| Học xong 1500-800
-59| tạo prompt chat với AI ielts Speaking topic
-60| trò chuyện cùng AI, IELTS, HSK1
-61| tính kế hoạch học IETLS
-62| Search Chinese Facebook
-63| thuộc 16 topic CN
+=======>None
+1| Hỏi GPT về app có thể kết hợp WORKWISE
+2| https://www.youtube.com/watch?v=AB4RNGJyO5g
+3| soạn đề ôn cho thành
+4| Mua đồ: lau nhà, tạ, máy nc nóng, khóa IELTS,
+5| sap xep drive de upload, code
+6| Tìm các group zalo, messenger, discord english cùng sở thích
+7| https://www.youtube.com/watch?v=1UTjWy-vnOo
+8| tạo lộ trình
+9| dọn phòng
+10| group messenger hay
+11| nhìn tương lai dựa vào trung quốc
+12| xóa bỏ Mô mô trên google sau khi dùng LLM
+13| lựa mua ấm điện
+14| gpt móng chân
+15| tính kế hoạch tương lai, hướng đi các năm
+16| tính kế hoạch MONEY, PROJECT
+17| tính kế hoạch GYM, sinh hoạt
+18| tính kế hoạch CAMERA
+19| tính kế hoạch học SKILLS thêm
+20| tính kế hoạch học AUTO, IOT
+21| Lên kế hoạch học tập
+22| Lên kế hoạch kiếm tiền
+23| Lên kế hoạch năm 1 và 3 năm còn lại
+24| chọn nguồn học cho chuyên ngành
+25| Chọn nguồn ôn tiếng anh đầu vào, IELTS
+26| chọn nguồn học cho đại cương
+27| Chọn khóa học cho ngành Auto
+28| các thuật ngữ trong ngành
+29| Nội Quán
+30| quỷ cốc tử kinh
+31| đạo đức kinh
+=======>Auto
+32| Search và hiểu về các khái niệm Điện tử, Trade
+33| electric
+34| Basic Electronics YTB, NOTEBOOKLLM
+=======>Learn
+35| Soạn và học với GEMINI PRO sau thi gk toán
+36| tính kế hoạch học CLASS
+37| Soạn triết học NOTEBOOKLLM
+38| Mastering Microsoft notebookLLM, ytb
+=======>MMO
+39| Tìm, suy nghĩ các ngánh kiếm tiền
+40| Định hướng tương lai
+41| Soạn kế hoạch kiếm tiền,học trade
+42| Tạo các dòng tiền, hế thống tự động
+43| black MMO
+44| CK, Forex, Crypto, ETF, MMO
+45| n8n va ai agent
+46| airdrop
+47| tìm cách tạo dòng tiền
+48| tìm lỗ hổng affiliate
+49| affilate cho các đồ mặt hàng ở HCM
+50| Cách nhân lên tài sản
+51| học chơi cổ phiếu, trái phiếu, crypto, vàng online
+52| Hỏi về các lỗ hỏng củacacs app shopee
+=======>NgoaiNgu
+53| Search lại nguồn các SKILL ENGLISH
+54| Tạo một list từ vựng TA B1,B2,C1 hoàn chỉnh
+55| học xong sách 20 ielts online
+56| chat, soạn tiếp dạy IOT với CHATGPT
+57| Học xong 1500-800
+58| tạo prompt chat với AI ielts Speaking topic
+59| trò chuyện cùng AI, IELTS, HSK1
+60| tính kế hoạch học IETLS
+61| Search Chinese Facebook
+62| thuộc 16 topic CN
+=======>Phim
+63| Onepiece
 64| truyen ccn
 65| xem iron man
 66| kimetsu no yaiba
 67| cài phim haikyuu
 68| coi baki
+=======>Project
 69| github copilot vaf cursor AI
 70| Học Figma
 71| lên project Brobot: nhện 4 chân, 1 đầu, 2 tay
@@ -84,11 +91,13 @@
 84| Cursor AI
 85| Học nhanh khóa WEB
 86| Xe robot di động
+=======>Sell
 87| shopify -> shopee
 88| affliate -> dropship
 89| DONG TIEN
 90| dropship, affiliate với shopee, tiktok sử dụng n8n và genlogin
 91| Dropship/affliliate CN
+=======>Social Media
 92| Xem lại chủ đề video để hoàn thành nốt
 93| video động vật LÍM, máy ép động vật
 94| Kênh FOR NotebookLLM
