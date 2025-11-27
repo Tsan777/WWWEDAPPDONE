@@ -44,8 +44,8 @@ Study4
 improvemandarin.com
 mandarinbean.com/hsk-chinese-test-online
 02 Road cn
-0 DOULINGO
 1 Chinese beginner UDEMY
+1-2 là nghe-đọc, 3-6 là nghe-đọc-viêt, 7-9 là đủ 4 kĩ năng
 2 HSK1-3 UDEMY
 digmandarin.com
 1 Kĩ Năng NNDV
@@ -123,17 +123,17 @@ ieltsonlinetests
 study4.com
 JLPT 3
 0 Road jp
+Chỉ có bài tập từ vựng, Nghe, Đọc hiểu
 LingoDeer
-doulingo
 1 Kĩ năng NNDV JP
 N5-N1 in 1 video
 japanese stories N5-N1 YTB
+1Test JP
+https://japanesetest4you.com/
+jlpt.jp
 Grammar JP
 @nihongonomorienglish
 https://jlptsensei.com/#jlpt-grammar-lists
-Test JP
-https://japanesetest4you.com/
-jlpt.jp
 Từ Vựng JP
 Quizlet N5-N1
 https://jlptsensei.com/
@@ -144,7 +144,7 @@ Mua khóa IELTS
 COURSE MMO
 Digital Marketing udemy course
 Shopee 15h udemy course
-Digital Marketing
+Marketing
 Affliate
 Chạy Quảng Cáo Google Adsense
 Sell
