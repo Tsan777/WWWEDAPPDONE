@@ -44,27 +44,39 @@ Study4
 improvemandarin.com
 mandarinbean.com/hsk-chinese-test-online
 02 Road cn
-1 Chinese beginner UDEMY
 1-2 là nghe-đọc, 3-6 là nghe-đọc-viêt, 7-9 là đủ 4 kĩ năng
+HSK
 2 HSK1-3 UDEMY
-digmandarin.com
+https://www.mandarinai.com/collection/list/1
+Topic
+1 Chinese beginner UDEMY
+https://gurulango.com/learn/learn-chinese/
 1 Kĩ Năng NNDV
 @ChineseDailyPodcast- popcast
+hsk 1-2 stories YTB
 @StorytimeinChinese-kể chuyện stories AI
 @littlechineselearnerssimpl4680 - cn fo kid
-@sysmandarin - news, cartoon immediate
 Little fox chinese - stories topic
-hsk 1-2 stories YTB
 Grammar CN
-ChineseZeroToHero
+ChineseZeroToHero -ytb
+https://www.digmandarin.com/hsk-1-grammar
 resources.allsetlearning.com/chinese/grammar/
+ReadCN
+https://mandarinbean.com/all-lessons/?jsf=epro-loop-builder&tax=category:3
+ShadowingCN
+https://corodomo.com/videos/list?lang=zh-CN
 Từ vựngcn
+HSKvocab
+3 HSK 1,2,3 vocab Quizlet
+4 resources.allsetlearning.com/chinese/vocabulary
+https://hanzii.net/notebook/detail/hsk-7?hl=vi
+Normalcnvocab
 0 Bo thu
 1 cn 16 topic vocab
 2 Cn beginner course UDEMY vocab
-3 HSK 1,2,3 vocab Quizlet
-4 resources.allsetlearning.com/chinese/vocabulary
 z Sách Vocab vàng
+WriteCN
+https://xiehanzi.com/thu-vien-hsk/
 IELTS 7
 0 Youtube
 @EngineeringMindset ytb
@@ -78,8 +90,11 @@ Sách IELTS 20DAY
 NGỮ PHÁP
 mindmap ngữ pháp
 Phát âm
-https://dailydictation.com/english-pronunciation
+ShadowingPAEN
+eJOY - ytb
+https://corodomo.com/videos
 https://parroto.app/vi/topics
+https://dailydictation.com/english-pronunciation
 https://youglish.com shadowing
 TỪ VỰNG
 1500 B1
@@ -89,12 +104,19 @@ z3 List symnonym
 2 Ôn Skills band
 02Road
 IELTS 7.5+ UDEMY
+Từ vựng bổ trợ thêm
+https://luyentu.com/
 0Test Luyện Practise -> Check BAND-> Luyện until AIM 4 SKILLS
+Level test   https://test-english.com/
 examenglish.com/IELTS
+https://youpass.vn/
 ielts-up.com
 ieltsonlinetests.com
 study4.com
 Listening  en
+https://elllo.org/levels/index.htm
+https://fluentdictation.com/en/
+https://listeninenglish.com/
 ieltsliz.com/ielts-listening/
 listen-and-write
 listenaminute
@@ -108,6 +130,9 @@ Chatgpt
 crushon.ai
 Giao tiếp
 free4talk cách kéo dài câu trả lời
+Shadowing
+https://corodomo.com/videos/list?lang=en
+https://parroto.app/vi
 engnovate.com
 ieltsliz.com/ielts-speaking
 Writing en
@@ -124,19 +149,22 @@ study4.com
 JLPT 3
 0 Road jp
 Chỉ có bài tập từ vựng, Nghe, Đọc hiểu
-LingoDeer
+https://www.vnjpclub.com/
 1 Kĩ năng NNDV JP
 N5-N1 in 1 video
 japanese stories N5-N1 YTB
 1Test JP
+https://dethijlpt.com/
 https://japanesetest4you.com/
 jlpt.jp
 Grammar JP
 @nihongonomorienglish
 https://jlptsensei.com/#jlpt-grammar-lists
+https://www.vnjpclub.com/   grammar
 Từ Vựng JP
 Quizlet N5-N1
 https://jlptsensei.com/
+https://www.vnjpclub.com/   vocab
 Mua khóa IELTS
 2 MMO, Xây dòng tiền
 0Tạo các dòng tiền, hế thống tự động
