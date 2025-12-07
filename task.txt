@@ -51,21 +51,21 @@ https://www.mandarinai.com/collection/list/1
 Topic
 1 Chinese beginner UDEMY
 https://gurulango.com/learn/learn-chinese/
-1 Kĩ Năng NNDV
+1 Kĩ Năng NNDV 20–30
 @ChineseDailyPodcast- popcast
+ShadowingCN
+https://corodomo.com/videos/list?lang=zh-CN
 hsk 1-2 stories YTB
 @StorytimeinChinese-kể chuyện stories AI
 @littlechineselearnerssimpl4680 - cn fo kid
 Little fox chinese - stories topic
-Grammar CN
+Grammar CN 10–15
 ChineseZeroToHero -ytb
 https://www.digmandarin.com/hsk-1-grammar
 resources.allsetlearning.com/chinese/grammar/
-ReadCN
+ReadCN 15–20
 https://mandarinbean.com/all-lessons/?jsf=epro-loop-builder&tax=category:3
-ShadowingCN
-https://corodomo.com/videos/list?lang=zh-CN
-Từ vựngcn
+Từ vựngcn 20–30
 HSKvocab
 3 HSK 1,2,3 vocab Quizlet
 4 resources.allsetlearning.com/chinese/vocabulary
@@ -75,28 +75,32 @@ Normalcnvocab
 1 cn 16 topic vocab
 2 Cn beginner course UDEMY vocab
 z Sách Vocab vàng
-WriteCN
+WriteCN 10–15
 https://xiehanzi.com/thu-vien-hsk/
 IELTS 7
 0 Youtube
 @EngineeringMindset ytb
+@EnglishisEZ
+@LearnEnglishWithTVSeries
 @veritasium
-Crash Course EnglishSpeeches TED Talks
+Crash Course
 Crunchlab mark rober
+EnglishSpeeches
 Ishowspeed MoreBestEverFoodReviewShow Ted Ed
+TED Talks
 1 Nền tảng
 01Road
 Sách IELTS 20DAY
-NGỮ PHÁP
+NGỮ PHÁP 15-20
 mindmap ngữ pháp
-Phát âm
+Phát âm 30-40
 ShadowingPAEN
 eJOY - ytb
 https://corodomo.com/videos
 https://parroto.app/vi/topics
 https://dailydictation.com/english-pronunciation
 https://youglish.com shadowing
-TỪ VỰNG
+TỪ VỰNG 25-30
 1500 B1
 800 B2
 z10 List sublists
@@ -113,18 +117,19 @@ https://youpass.vn/
 ielts-up.com
 ieltsonlinetests.com
 study4.com
-Listening  en
+Listening  en 25-35
 https://elllo.org/levels/index.htm
 https://fluentdictation.com/en/
 https://listeninenglish.com/
 ieltsliz.com/ielts-listening/
 listen-and-write
 listenaminute
-Reading en
+Reading en 20-30
 breakingnewsenglish.com
+https://www.newsinlevels.com/
 ieltsliz.com/ielts-reading
 mangaplus
-Speaking en
+Speaking en 25-35
 ChatAI
 Chatgpt
 crushon.ai
@@ -135,7 +140,7 @@ https://corodomo.com/videos/list?lang=en
 https://parroto.app/vi
 engnovate.com
 ieltsliz.com/ielts-speaking
-Writing en
+Writing en 20-30
 Từ vựng+bài mẫu DRIVE
 https://drive.google.com/drive/folders/13KmEfA9BIvwbyAHcyfXb_tUexxJ1pEjJ?utm_id=bt05
 ieltsliz.com/ielts-writing
