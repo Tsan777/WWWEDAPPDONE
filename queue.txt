@@ -70,45 +70,46 @@
 64| cài phim haikyuu
 65| coi baki
 =======>Project
-66| google AI studio
-67| google cloud
-68| Học vide coding vs các AI khác nhau
-69| github copilot vaf cursor AI
-70| Học Figma
-71| lên project Brobot: nhện 4 chân, 1 đầu, 2 tay
-72| AI github
-73| cày CS50 ytb, notebookLLM
-74| Xiaozhi
-75| tạo một chatbot livestream tiktok auto response
-76| Nếu được thì Firebase cho WorkWise
-77| Firebase studio
-78| IUHUB
-79| MEMRAP + AI + CAMERA
-80| WorkWise tu tiên bản app, webapp
-81| hoc firebase, firebase cho WorkWise
-82| Chọn ý tưởng, NCKH
-83| tải thử react native và build app thử
-84| Cursor AI
-85| Học nhanh khóa WEB
-86| Xe robot di động
+66| Survive and solo
+67| google AI studio
+68| google cloud
+69| Học vide coding vs các AI khác nhau
+70| github copilot vaf cursor AI
+71| Học Figma
+72| lên project Brobot: nhện 4 chân, 1 đầu, 2 tay
+73| AI github
+74| cày CS50 ytb, notebookLLM
+75| Xiaozhi
+76| tạo một chatbot livestream tiktok auto response
+77| Nếu được thì Firebase cho WorkWise
+78| Firebase studio
+79| IUHUB
+80| MEMRAP + AI + CAMERA
+81| WorkWise tu tiên bản app, webapp
+82| hoc firebase, firebase cho WorkWise
+83| Chọn ý tưởng, NCKH
+84| tải thử react native và build app thử
+85| Cursor AI
+86| Học nhanh khóa WEB
+87| Xe robot di động
 =======>Sell
-87| shopify -> shopee
-88| affliate -> dropship
-89| DONG TIEN
-90| dropship, affiliate với shopee, tiktok sử dụng n8n và genlogin
-91| Dropship/affliliate CN
+88| shopify -> shopee
+89| affliate -> dropship
+90| DONG TIEN
+91| dropship, affiliate với shopee, tiktok sử dụng n8n và genlogin
+92| Dropship/affliliate CN
 =======>Social Media
-92| tạo kênh tiktok, ytb english stories
-93| Tạo kênh tiktok gái xinh twitter
-94| Notebook llm tạo truyện tranh
-95| Xem lại chủ đề video để hoàn thành nốt
-96| video động vật LÍM, máy ép động vật
-97| Kênh FOR NotebookLLM
-98| đăng video fastmind
-99| song ngữ, ng nói, nhạc, thumnails, icon
-100| song ngữ subtitle edit
-101| cắt pdf, làm video dạy học 12, 9  LLM
-102| tạo video nhiều giọng, stories
-103| Tìm nguồn, tài liệu làm video notebook LLM
-104| cách làm một kênh viral và nhiều người coi
-105| cách livestream tiktok
+93| tạo kênh tiktok, ytb english stories
+94| Tạo kênh tiktok gái xinh twitter
+95| Notebook llm tạo truyện tranh
+96| Xem lại chủ đề video để hoàn thành nốt
+97| video động vật LÍM, máy ép động vật
+98| Kênh FOR NotebookLLM
+99| đăng video fastmind
+100| song ngữ, ng nói, nhạc, thumnails, icon
+101| song ngữ subtitle edit
+102| cắt pdf, làm video dạy học 12, 9  LLM
+103| tạo video nhiều giọng, stories
+104| Tìm nguồn, tài liệu làm video notebook LLM
+105| cách làm một kênh viral và nhiều người coi
+106| cách livestream tiktok

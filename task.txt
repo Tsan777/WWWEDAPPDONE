@@ -39,44 +39,44 @@ https://drive.google.com/drive/folders/1oHY2HzYgQeKfE4kpgq9DknNZV3bI0Hpv
 sách mua IUH mới
 ôn thi chứng chỉ tin học cơ bản youtube
 HSK 3
-0 Test cn
-Study4
-improvemandarin.com
-mandarinbean.com/hsk-chinese-test-online
-02 Road cn
-1-2 là nghe-đọc, 3-6 là nghe-đọc-viêt, 7-9 là đủ 4 kĩ năng
-HSK
-2 HSK1-3 UDEMY
-https://www.mandarinai.com/collection/list/1
-Topic
-1 Chinese beginner UDEMY
-https://gurulango.com/learn/learn-chinese/
 1 Kĩ Năng NNDV 20–30
 @ChineseDailyPodcast- popcast
+ReadCN 15–20
+https://mandarinbean.com/all-lessons/?jsf=epro-loop-builder&tax=category:3
 ShadowingCN
 https://corodomo.com/videos/list?lang=zh-CN
+WriteCN 10–15
+https://xiehanzi.com/thu-vien-hsk/
 hsk 1-2 stories YTB
 @StorytimeinChinese-kể chuyện stories AI
 @littlechineselearnerssimpl4680 - cn fo kid
 Little fox chinese - stories topic
-Grammar CN 10–15
-ChineseZeroToHero -ytb
-https://www.digmandarin.com/hsk-1-grammar
-resources.allsetlearning.com/chinese/grammar/
-ReadCN 15–20
-https://mandarinbean.com/all-lessons/?jsf=epro-loop-builder&tax=category:3
-Từ vựngcn 20–30
-HSKvocab
-3 HSK 1,2,3 vocab Quizlet
-4 resources.allsetlearning.com/chinese/vocabulary
-https://hanzii.net/notebook/detail/hsk-7?hl=vi
-Normalcnvocab
+GD1: NORMAL cn FUNDAMENTAL
+0 Topic road
+1 Chinese beginner UDEMY
+https://gurulango.com/learn/learn-chinese/
+1 Vocab cn need
 0 Bo thu
 1 cn 16 topic vocab
 2 Cn beginner course UDEMY vocab
 z Sách Vocab vàng
-WriteCN 10–15
-https://xiehanzi.com/thu-vien-hsk/
+GD2: HSK training
+0 HSK Road
+1-2 là nghe-đọc, 3-6 là nghe-đọc-viêt, 7-9 là đủ 4 kĩ năng
+2 HSK1-3 UDEMY
+https://www.mandarinai.com/collection/list/1
+improvemandarin.com
+0 Test HSK cn
+Study4
+mandarinbean.com/hsk-chinese-test-online
+Grammar CN 10–15
+ChineseZeroToHero -ytb
+https://www.digmandarin.com/hsk-1-grammar
+resources.allsetlearning.com/chinese/grammar/
+HSKvocab
+3 HSK 1,2,3 vocab Quizlet
+4 resources.allsetlearning.com/chinese/vocabulary
+https://hanzii.net/notebook/detail/hsk-7?hl=vi
 IELTS 7
 0 Youtube
 @EngineeringMindset ytb
@@ -93,6 +93,7 @@ TED Talks
 Sách IELTS 20DAY
 NGỮ PHÁP 15-20
 mindmap ngữ pháp
+roadtogrammar.com
 Phát âm 30-40
 ShadowingPAEN
 eJOY - ytb
@@ -103,6 +104,7 @@ https://youglish.com shadowing
 TỪ VỰNG 25-30
 1500 B1
 800 B2
+http://www.roadtogrammar.com/vocabulary/
 z10 List sublists
 z3 List symnonym
 2 Ôn Skills band
@@ -158,6 +160,14 @@ https://www.vnjpclub.com/
 1 Kĩ năng NNDV JP
 N5-N1 in 1 video
 japanese stories N5-N1 YTB
+GD1: JP FUNDAMENTAL
+Learn Katakana, Hiragana
+Normal Knowledge about JPese
+https://www.vnjpclub.com/tieng-nhat-vo-long/
+Shadowing JP basic
+https://www.vnjpclub.com/hoi-thoai-so-cap/
+Some Basic Topic Vocab
+GD2: JLPT
 1Test JP
 https://dethijlpt.com/
 https://japanesetest4you.com/
@@ -170,7 +180,6 @@ Từ Vựng JP
 Quizlet N5-N1
 https://jlptsensei.com/
 https://www.vnjpclub.com/   vocab
-Mua khóa IELTS
 2 MMO, Xây dòng tiền
 0Tạo các dòng tiền, hế thống tự động
 1Freelance Project
@@ -180,7 +189,16 @@ Shopee 15h udemy course
 Marketing
 Affliate
 Chạy Quảng Cáo Google Adsense
-Sell
+Sell others
+Tool – Automation
+Học dùng AI, tool automation
+học dùng
+Ai agent
+N8N
+genlogin
+OTHER MMO
+Black MMO
+other trick
 Social Media
 livestream
 ggmap
@@ -191,14 +209,12 @@ ASMR
 Tạo bất ngờ
 review food
 Thích gì đăng đấy
+gai xinh svideo
+languagestories short
 video
+gai xinh video
+language stories
 teach notebook LLM song ngữ -Fastmind
-Tool – Automation
-Học dùng AI, tool automation
-học dùng
-Ai agent
-N8N
-genlogin
 Trade
 Học khái niệm trước, đầu tư vốn nhỏ
 https://www.babypips.com/learn/forex
@@ -217,6 +233,8 @@ https://www.youtube.com/watch?v=jQ1sfKIl50E
 2 Game
 CS50 GAME
 Học roblox
+@VuBakaRoblox
+https://www.youtube.com/@BrawlDevRBLX/playlists
 Unity
 3 WEB
 Front end, Backend 28tech
@@ -484,3 +502,9 @@ RoboDK, RobotStudio (ABB), Process Simulate (Siemens).
 2. Thiết kế hệ thống tích hợp
 Layout dây chuyền tự động.
 Tối ưu chu kỳ (Cycle Time).
+Từ vựngcn 20–30
+1 Vocab cn need
+0 Bo thu
+1 cn 16 topic vocab
+2 Cn beginner course UDEMY vocab
+z Sách Vocab vàng

@@ -20,7 +20,7 @@ Sit up
 Squat
 LungXo
 EoOTHER
-Ngoại Ngữ(IETLS, HSK, JLPT)
-MMO(Social Media, Trade, Sell Marketing, IT Office, IT Skill)
-Project AIOT (GAME, WEP-APP, IOT EMBEDDED)
-AUTO (Đại cương, Điện, Embedded)
+3h Ngoại ngữ (IELTS, HSK, JLPT)
+3h MMO (SocialMedia, Sell, Trade, Other)
+3h Project AIOIT (Game, Webapp, EMBEDDED)
+3h AUTO (Đại cương, Điện, Embedded, chứng chỉ)
