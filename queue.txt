@@ -1,118 +1,129 @@
 =======>None
-1| phái sinh
-2| đuổi côn trùng
-3| Soạn ôn lại Toán, Lý, Tin,...đại cương Cơ bản-> Nâng cao
-4| Xem group QUEUE MMO
-5| Xem group CURSOR
-6| Tìm các group zalo, messenger, discord english cùng sở thích
-7| Mua đồ: lau nhà, tạ, máy nc nóng, khóa IELTS, ấm điện
-8| soạn đề ôn cho thành
-9| nhìn tương lai dựa vào trung quốc
-10| xóa bỏ Mô mô trên google sau khi dùng LLM
-11| gpt móng chân
-12| chọn nguồn học cho chuyên ngành
-13| Chọn nguồn ôn tiếng anh đầu vào, IELTS
-14| chọn nguồn học cho đại cương
-15| Chọn khóa học cho ngành Auto
-16| các thuật ngữ trong ngành
-17| Nội Quán
-18| quỷ cốc tử kinh
-19| đạo đức kinh
+1| làm game ngũ hành battle
+2| coi lam cai app todo
+3| coinbase
+4| phái sinh
+5| đuổi côn trùng
+6| Soạn ôn lại Toán, Lý, Tin,...đại cương Cơ bản-> Nâng cao
+7| Xem group QUEUE MMO
+8| Xem group CURSOR
+9| Tìm các group zalo, messenger, discord english cùng sở thích
+10| Mua đồ: lau nhà, tạ, máy nc nóng, khóa IELTS, ấm điện
+11| soạn đề ôn cho thành
+12| nhìn tương lai dựa vào trung quốc
+13| xóa bỏ Mô mô trên google sau khi dùng LLM
+14| gpt móng chân
+15| chọn nguồn học cho chuyên ngành
+16| Chọn nguồn ôn tiếng anh đầu vào, IELTS
+17| chọn nguồn học cho đại cương
+18| Chọn khóa học cho ngành Auto
+19| các thuật ngữ trong ngành
+20| Nội Quán
+21| quỷ cốc tử kinh
+22| đạo đức kinh
 =======>Auto
-20| Search và hiểu về các khái niệm Điện tử, Trade
-21| electric
-22| Basic Electronics YTB, NOTEBOOKLLM
+23| 1    arduino
+24| 2    arduino
+25| 3    arduino
+26| 1   STM32
+27| 2   STM32
+28| 3   STM32
+29| 4   STM32
+30| Search và hiểu về các khái niệm Điện tử, Trade
+31| electric
+32| Basic Electronics YTB, NOTEBOOKLLM
 =======>Learn
-23| Soạn và học với GEMINI PRO sau thi gk toán
-24| tính kế hoạch học CLASS
-25| Soạn triết học NOTEBOOKLLM
-26| Mastering Microsoft notebookLLM, ytb
+33| Soạn và học với GEMINI PRO sau thi gk toán
+34| tính kế hoạch học CLASS
+35| Soạn triết học NOTEBOOKLLM
+36| Mastering Microsoft notebookLLM, ytb
 =======>MMO
-27| https://www.youtube.com/watch?v=ZA0Fc85M3FQ&list=PLSij_a1M9L2XXxzJq0NwILG1fdxGI0xh_
-28| Tận dụng gemini pro đee hỏi những cái gpt k có như dòng tiền, affilate, drop ship
-29| Tìm, suy nghĩ các ngánh kiếm tiền
-30| Định hướng tương lai
-31| Soạn kế hoạch kiếm tiền,học trade
-32| Tạo các dòng tiền, hế thống tự động
-33| black MMO
-34| CK, Forex, Crypto, ETF, MMO
-35| n8n va ai agent
-36| airdrop
-37| tìm cách tạo dòng tiền
-38| tìm lỗ hổng affiliate
-39| affilate cho các đồ mặt hàng ở HCM
-40| Cách nhân lên tài sản
-41| học chơi cổ phiếu, trái phiếu, crypto, vàng online
-42| Hỏi về các lỗ hỏng củacacs app shopee
+37| Tận dụng gemini pro đee hỏi những cái gpt k có như dòng tiền, affilate, drop ship
+38| https://www.youtube.com/watch?v=ZA0Fc85M3FQ&list=PLSij_a1M9L2XXxzJq0NwILG1fdxGI0xh_
+39| Tìm, suy nghĩ các ngánh kiếm tiền
+40| Định hướng tương lai
+41| Soạn kế hoạch kiếm tiền,học trade
+42| Tạo các dòng tiền, hế thống tự động
+43| black MMO
+44| CK, Forex, Crypto, ETF, MMO
+45| n8n va ai agent
+46| airdrop
+47| tìm cách tạo dòng tiền
+48| tìm lỗ hổng affiliate
+49| affilate cho các đồ mặt hàng ở HCM
+50| Cách nhân lên tài sản
+51| học chơi cổ phiếu, trái phiếu, crypto, vàng online
+52| Hỏi về các lỗ hỏng củacacs app shopee
 =======>NgoaiNgu
-43| Search lại nguồn các SKILL ENGLISH
-44| Tạo một list từ vựng TA B1,B2,C1 hoàn chỉnh
-45| học xong sách 20 ielts online
-46| chat, soạn tiếp dạy IOT với CHATGPT
-47| Học xong 1500-800
-48| tạo prompt chat với AI ielts Speaking topic
-49| trò chuyện cùng AI, IELTS, HSK1
-50| tính kế hoạch học IETLS
-51| Search Chinese Facebook
-52| thuộc 16 topic CN
+53| Search lại nguồn các SKILL ENGLISH
+54| Tạo một list từ vựng TA B1,B2,C1 hoàn chỉnh
+55| học xong sách 20 ielts online
+56| chat, soạn tiếp dạy IOT với CHATGPT
+57| Học xong 1500-800
+58| tạo prompt chat với AI ielts Speaking topic
+59| trò chuyện cùng AI, IELTS, HSK1
+60| tính kế hoạch học IETLS
+61| Search Chinese Facebook
+62| thuộc 16 topic CN
 =======>Phim
-53| cau ut nha cong tuoc la sat thu hoi quy
-54| cuu thien kiem phap
-55| ta troi sinh da la nhan vat phan dien
-56| Thiet huyet kiem si hoi sinh
-57| Dai quan gia la ma hoang
-58| Nga Lao ma than
-59| Pham nhan tu tien
-60| tiên nghịch
-61| dptk
-62| Thế giới hoàn mỹ
-63| Onepiece
-64| truyen ccn
-65| xem iron man
-66| kimetsu no yaiba
-67| cài phim haikyuu
-68| coi baki
+63| Thương Quỷ Vô Song
+64| cuu thien kiem phap
+65| Thiet huyet kiem si hoi sinh
+66| Dai quan gia la ma hoang
+67| Nga Lao ma than
+68| Pham nhan tu tien
+69| tiên nghịch
+70| dptk
+71| Thế giới hoàn mỹ
+72| Onepiece
+73| ta troi sinh da la nhan vat phan dien
+74| cau ut nha cong tuoc la sat thu hoi quy
+75| truyen ccn
+76| xem iron man
+77| kimetsu no yaiba
+78| cài phim haikyuu
+79| coi baki
 =======>Project
-69| Survive and solo
-70| google AI studio
-71| google cloud
-72| Học vide coding vs các AI khác nhau
-73| github copilot vaf cursor AI
-74| Học Figma
-75| lên project Brobot: nhện 4 chân, 1 đầu, 2 tay
-76| AI github
-77| cày CS50 ytb, notebookLLM
-78| Xiaozhi
-79| tạo một chatbot livestream tiktok auto response
-80| Nếu được thì Firebase cho WorkWise
-81| Firebase studio
-82| IUHUB
-83| MEMRAP + AI + CAMERA
-84| WorkWise tu tiên bản app, webapp
-85| hoc firebase, firebase cho WorkWise
-86| Chọn ý tưởng, NCKH
-87| tải thử react native và build app thử
-88| Cursor AI
-89| Học nhanh khóa WEB
-90| Xe robot di động
+80| Survive and solo
+81| google AI studio
+82| google cloud
+83| Học vide coding vs các AI khác nhau
+84| github copilot vaf cursor AI
+85| Học Figma
+86| lên project Brobot: nhện 4 chân, 1 đầu, 2 tay
+87| AI github
+88| cày CS50 ytb, notebookLLM
+89| Xiaozhi
+90| tạo một chatbot livestream tiktok auto response
+91| Nếu được thì Firebase cho WorkWise
+92| Firebase studio
+93| IUHUB
+94| MEMRAP + AI + CAMERA
+95| WorkWise tu tiên bản app, webapp
+96| hoc firebase, firebase cho WorkWise
+97| Chọn ý tưởng, NCKH
+98| tải thử react native và build app thử
+99| Cursor AI
+100| Học nhanh khóa WEB
+101| Xe robot di động
 =======>Sell
-91| shopify -> shopee
-92| affliate -> dropship
-93| DONG TIEN
-94| dropship, affiliate với shopee, tiktok sử dụng n8n và genlogin
-95| Dropship/affliliate CN
+102| shopify -> shopee
+103| affliate -> dropship
+104| DONG TIEN
+105| dropship, affiliate với shopee, tiktok sử dụng n8n và genlogin
+106| Dropship/affliliate CN
 =======>Social Media
-96| tạo kênh tiktok, ytb english stories
-97| Tạo kênh tiktok gái xinh twitter
-98| Notebook llm tạo truyện tranh
-99| Xem lại chủ đề video để hoàn thành nốt
-100| video động vật LÍM, máy ép động vật
-101| Kênh FOR NotebookLLM
-102| đăng video fastmind
-103| song ngữ, ng nói, nhạc, thumnails, icon
-104| song ngữ subtitle edit
-105| cắt pdf, làm video dạy học 12, 9  LLM
-106| tạo video nhiều giọng, stories
-107| Tìm nguồn, tài liệu làm video notebook LLM
-108| cách làm một kênh viral và nhiều người coi
-109| cách livestream tiktok
+107| tạo kênh tiktok, ytb english stories
+108| Tạo kênh tiktok gái xinh twitter
+109| Notebook llm tạo truyện tranh
+110| Xem lại chủ đề video để hoàn thành nốt
+111| video động vật LÍM, máy ép động vật
+112| Kênh FOR NotebookLLM
+113| đăng video fastmind
+114| song ngữ, ng nói, nhạc, thumnails, icon
+115| song ngữ subtitle edit
+116| cắt pdf, làm video dạy học 12, 9  LLM
+117| tạo video nhiều giọng, stories
+118| Tìm nguồn, tài liệu làm video notebook LLM
+119| cách làm một kênh viral và nhiều người coi
+120| cách livestream tiktok

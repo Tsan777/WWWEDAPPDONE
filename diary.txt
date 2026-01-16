@@ -447,6 +447,15 @@ Vật cực tất phản!
 2025-04-12
 một số AI
 cursor AI, Manus AI, genspark AI, copycoderAI
+https://chatgpt.com/
+https://chat.deepseek.com/
+https://claude.ai/artifacts?category=learn
+https://gemini.google.com/app
+https://www.perplexity.ai/?login-source=floatingSignup&login-new=true
+https://flowith.io/blank
+https://www.genspark.ai/
+https://www.blackbox.ai/
+https://dorksearch.com/
 <diarysplit>
 2025-03-19
 gpt prompt learn

@@ -1,6 +1,6 @@
-name: 🔨 Đại Sư Cảnh Sơ Giai 🐣
-money: 8$
-level: 24.0
-value: 0.2699999999999996
-bar: [0, 0, 0, 1, 0, 0, 1]
-pie: [0, 0, 0, 2]
+name: 🔨 Đại Sư Cảnh Trung Giai ⚙️
+money: 337$
+level: 25.0
+value: 0.629999999999999
+bar: [0, 0, 0, 0, 0, 2, 4]
+pie: [0, 6, 0, 0]
